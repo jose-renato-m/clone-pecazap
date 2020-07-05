@@ -13,6 +13,7 @@ Criar um clone da aplicação **peçaZap**, aplicação onde o usuário consegue
 Pra esse desafio serão usadas as seguintes tecnologias:
 
 - [ReactJS](https://pt-br.reactjs.org/)
+- [TypeScript](https://www.typescriptlang.org/)
 - [axios](https://www.npmjs.com/package/axios)
 - [styled-components](https://styled-components.com/)
 
